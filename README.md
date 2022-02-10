@@ -1,4 +1,4 @@
-# aks-vault-demo-1
+# aks-vault-demo
 Using Terraform to deploy an AKS cluster and Helm to deploy HashiCorp Vault
 
 # Prerequisites
